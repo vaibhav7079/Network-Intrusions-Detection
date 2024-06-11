@@ -20,6 +20,7 @@ Multinomial Classification: Detecting type of activity by predicting Activity is
 Buffer Over flow or FTP Write or Guess Password or Neptune or N-Map or Port Sweep or Root Kit or
 Satan or Smurf
 
+
 Available Data:
 Organization captured the data over the period of time for different types of attacks and provided
 the data in different files for different type of activities along with normal.
